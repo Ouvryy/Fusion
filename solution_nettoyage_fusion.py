@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-Solution corrigée pour le nettoyage de la colonne Surface_habitable_logement et la fusion des fichiers CSV
-"""
+
 
 import pandas as pd
 import numpy as np
